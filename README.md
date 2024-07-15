@@ -5,7 +5,7 @@
 
 - ⚡ I’m currently learning **Azure, Microsoft PowerBI, Rust.**
 
-- 🌱 I’m well-versed in these languages: **Python, Java, Go, C++, Node.js, JavaScript, HTML, CSS**
+- 🌱 I’m well-versed in these languages: **Python, Java, C++, Node.js, JavaScript, HTML, CSS**
 
 - 🤝 I have worked on **Django, Flask, .NET**
 
